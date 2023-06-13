@@ -35,6 +35,10 @@ header .container {
     width: 100%;
 }
 
+header .container .Name{
+    font-size: 1.2rem;
+}
+
 header nav ul {
     display: flex;
 }
@@ -87,7 +91,8 @@ main h2 {
 main p {
     max-width: 500px;
     margin: 0 auto;
-    font-size: 1.25rem;
+    font-size: 2rem;
+    font-weight: bold;
 }
 
 main button {
@@ -95,7 +100,7 @@ main button {
     border: 3px solid white;
     border-radius: 20px;
     /* 가로 32px 세로 16px*/
-    width: 11rem;
+    width: 11.5rem;
     height: 4.2rem;
     margin-top: 3rem;
     color: white;
