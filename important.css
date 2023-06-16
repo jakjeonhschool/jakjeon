@@ -102,7 +102,7 @@ main button {
     /* 가로 32px 세로 16px*/
     width: 11.5rem;
     height: 4.2rem;
-    margin-top: 3rem;
+    margin-top: .3rem;
     color: white;
     font-weight: bold;
     cursor: pointer;
