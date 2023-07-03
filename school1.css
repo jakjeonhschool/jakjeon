@@ -60,6 +60,6 @@ section .about-self .left p {
     margin: 1rem 0;
 }
 
-section .school.red-border {
+.school.red-border {
     border-color: red;
 }
