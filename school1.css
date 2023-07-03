@@ -59,7 +59,3 @@ section .about-self .left p {
     font-size: 1.15rem;
     margin: 1rem 0;
 }
-
-.school.red-border {
-    border-color: red;
-}
